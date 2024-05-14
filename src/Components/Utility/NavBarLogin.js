@@ -6,7 +6,7 @@ import cart from '../../images/cart.png'
 const NavBarLogin = () => {
   return (
     <div>
-      <Navbar className="sticky-top" bg="secondary" variant="dark" expand="sm">
+      <Navbar className="sticky-top" bg="secondary bg-gradient" variant="dark" expand="sm">
         <Container>
           <Navbar.Brand>
             <a href="/">

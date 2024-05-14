@@ -6,6 +6,7 @@ import dwa4 from "../../images/dwa4.png";
 
 import CategoryCard from "./../Category/CategoryCard";
 const CategoryContainer = () => {
+  
   return (
     <Container>
       <div className="admin-content-text mt-2 ">tout les categories </div>
